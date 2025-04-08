@@ -9,8 +9,20 @@
     font-family: 'Times New Roman', Times, serif;
     margin: 0;
     padding: 0;
+    background-color: rgba(255, 96, 181, 0.795);
+
 }
 .img{
     max-width: 100%;
     height: auto;
+    border-radius: 10px;
+
+}
+.sonhos{
+    background-color: rgb(196, 14, 111);
+    color: black;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    font-size: 18px;
 }
